@@ -70,7 +70,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 - `Android Jetpack` 
   - Lifecycle
   - KSP
-  - Splash Sreen
+  - Splash Screen
   - Coroutines
   - Hilt
   - Material Design

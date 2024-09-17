@@ -69,7 +69,7 @@ Screenshots are taken from the `v1.0.0` version of the application. The interfac
 - `Android Jetpack` 
   - Lifecycle
   - KSP
-  - Splash Sreen
+  - Splash Screen
   - Coroutines
   - Hilt
   - Material Design
