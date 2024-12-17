@@ -50,13 +50,13 @@ This application is an interface design for a weather app where users can track 
 
 ## Screenshots
 
-Screenshots are taken from the `v1.0.0` version of the application. The interface may be fully or partially changed in newer versions.
+Screenshots are taken from the `v1.0.0` version of the application. The UI may be fully or partially changed in newer versions.
 
 <details>
   <summary>Images</summary>
   
-  | ![Screenshot 1](../../Readme%20Resources/Ekran%20Görüntüleri/1.png) | ![Screenshot 2](../../Readme%20Resources/Ekran%20Görüntüleri/1.png) |
-  | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+  | ![Screenshot 1](../../Readme%20Resources/Ekran%20Görüntüleri/1.png) | ![Screenshot 2](../../Readme%20Resources/Ekran%20Görüntüleri/2.pngg) |
+  | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
   
 </details>
   
